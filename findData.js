@@ -3,4 +3,4 @@ const findData = (str, subStr) => {
   return arrStrr.indexOf(subStr) !== -1;
 };
 
-console.log(findData("I belong to Nanded city.", "Nanded"));
+console.log(findData("I belong to NY city.", "NY"));
